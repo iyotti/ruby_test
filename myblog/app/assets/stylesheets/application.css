@@ -54,3 +54,9 @@
  textarea{
 	 height: 160px;
  }
+
+ .error{
+	 font-size:12px;
+	 font-weight: bold;
+	 color: tomato;
+ }
