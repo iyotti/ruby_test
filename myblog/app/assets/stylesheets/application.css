@@ -47,7 +47,7 @@
 
  input[type="text"],textarea{
 	 box-sizing: boder-box;
-	 width: 400px;
+	 width: 400px; 
 	padding: 5px;
  }
 
@@ -63,4 +63,9 @@
 
  .command{
 	 font-size: 12px;
+ }
+
+ h3{
+	 font-size: 14px;
+	 padding-top: 25px;
  }
